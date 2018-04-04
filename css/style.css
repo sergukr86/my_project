@@ -1,0 +1,96 @@
+.mt50 {
+	margin-top: 50px;
+}
+
+#bounce {
+	width: 250px;
+	height: 200px;
+	background-color: green;
+	border: 2px solid black;
+	margin-bottom: 20px;
+}
+
+#explode {
+	width: 250px;
+	height: 200px;
+	background-color: cyan;
+	border: 2px solid black;
+	margin-bottom: 20px;
+}
+
+#puff {
+	width: 250px;
+	height: 200px;
+	background-color: yellow;
+	border: 2px solid black;
+	margin-bottom: 20px;
+}
+
+.col-md-6 img {
+	width: 550px;
+	margin-bottom: 20px;
+}
+
+#pic2 {
+	display:none;
+}
+
+#switch {
+	width: 250px;
+	height: 200px;
+	background-color: silver;
+	border: 2px solid black;
+	margin-bottom: 20px;
+}
+
+.switch {
+	font-size: 24px;
+	color: red;
+}
+
+.switch1 {
+	color: green;
+	border-radius: 50%;
+	font-size: 34px;
+	text-align: center;
+	line-height: 190px;
+}
+
+#anim {
+	width: 250px;
+	height: 200px;
+	background-color: lightgray;
+	border: 2px solid black;
+	margin-bottom: 20px;
+	font-size: 24px;
+	color: red;
+	text-align: center;
+}
+
+ul#menu li {
+	width: 250px;
+	border: 1px solid grey;
+	background-color: cyan;
+}
+
+#dialog {
+	display: none;
+}
+
+#dialog input, button.btn.btn-info.btn-lg {
+	float: right;
+}
+
+.highlight {
+	background-color: yellow;
+}
+
+#sort-1, #sort-2 {
+	list-style-type: none;
+}
+
+#sort-1 li, #sort-2 li {
+	margin-top: 10px;
+	padding: 10px;
+	background-color: silver;
+}
